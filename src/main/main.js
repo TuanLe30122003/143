@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import './loader.css';
 import './main.css';
-import WishPhrase from "../wish/WishPhrase"
+import WishPhrase from "../wish/WishPhrase";
+import React from "react";
 
 function Main() {
 

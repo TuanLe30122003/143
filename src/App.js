@@ -1,6 +1,7 @@
 import Login from "./loginCom/login";
 import { useState, useRef, createContext, useEffect } from "react";
 import Main from "./main/main";
+import React from "react";
 
 
 export const loginContext = createContext(null);

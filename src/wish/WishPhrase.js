@@ -1,4 +1,5 @@
 import "./wishPhrase.css";
+import React from "react";
 
 function WishPhrase() {
     return (
@@ -20,16 +21,24 @@ function WishPhrase() {
                 </div>
                 <div class="card__content">
                     <div class="page">
-                        <p>Hôm nay là ngày Valentine trắng ròi, cái này anh làm cũng hơi vội nên nó cũng hơi phèn tý 
-                            <br/>
-                            <br/>
-                            Nhưng mà chủ yếu là muốn chúc bạn yêu của anh luôn yêu anh như mọi khi, luôn lạc quan yêu đời và hoàn thành được những ước mơ cuộc đời của mình.
-                            <br/>
-                            <br/>
-                            Anh yêu emm nhiều lắm!
+                        <p>
+                            Thưa bé iu,
                             <br></br>
                             <br></br>
-                            Bạn iuu của emm
+                            Hôm nay là 14/3 ròi, chúc bé yêu của anh luôn vui vẻ, bớt cứng đầu, bớt cãi ny lại, học tốt hơn nữa
+                            <br></br>
+                            <br></br>
+                            Hi vọng là mình có thể bên nhau lâu hơn nữa, không biết là em có bớt cứng đầu đi được không nhưng mà
+                            anh sẽ cố thích nghi với nó.
+                            <br></br>
+                            <br></br>
+                            Cái này a làm hơi vội nên là nó hơi phèn nhưng mà mình nên nhìn vào tấm lòng đúng khong hehe.
+                            <br></br>
+                            <br></br>
+                            Anh yêu em nhiều lắmmm
+                            <br></br>
+                            <br></br>
+                            Gấu của em 
                         </p>
                     </div>
                 </div>
